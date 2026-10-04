@@ -20,8 +20,8 @@ Mis principales áreas de trabajo incluyen:
 
 ### Lenguajes de Programación
 * **JavaScript:** Desarrollo de aplicaciones web interactivas tanto en cliente como en servidor.
-* **Python:** Automatización, desarrollo backend y scripting.
-* **Java:** Programación orientada a objetos y lógica de negocio.
+* **Python:** Automatización, desarrollo backend.
+* **Java:** Programación orientada a objetos y lógica de negoci.
 
 ### Desarrollo Frontend
 * **React:** Construcción de interfaces de usuario basadas en componentes reutilizables.
